@@ -1,31 +1,20 @@
+soma_def = 0
 soma = 0
-termo = 0
 i = 1
-x = 0
+x = 1
 
 
-if x == 0:
+while i <= x:
 
-        x = int(input("digite um número: "))
+    x = int(input("digite um número: "))
 
-        if x > 0:
+    for i in range (1, x):
+        
+            soma = 1 + 1 / i
+            soma_def += soma2
 
-            for i in range(1, x + 1):
-                    
-                termo = 1 / i
-                soma = termo + soma
-
-            print(soma)
-                        
-            
-
-        else:
-            print("número inválido digite um número positivo")
-            
-    
-    
-
-
+else:
+    print(soma_def)
 
 
         
