@@ -20,3 +20,11 @@ print(L) #removeu o 'teste4'
 
 L.remove('teste2') #removeu o valor do indice 1
 print(L)
+
+#copiar ou T.append(C[:])
+C = [5,4,3,2,1]
+
+T = C.copy()
+print(T)
+
+# casting list(), tipo int() pra input, faz conversão pra tipo lista
