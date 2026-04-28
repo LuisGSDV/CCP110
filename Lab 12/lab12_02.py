@@ -6,13 +6,13 @@ numeros = [x for x in range(1000)]
 
 for x in numeros:
     if x % 2 == 0 :
-        arquivo_par.write(x)
+        arquivo_par.write(f"{x}\n")
 
         if x % 4 == 0:
-            multiplo_4.write(x)
+            multiplo_4.write(f"{x}\n")
 
     else:
-        arquivo_impar.write(x)
+        arquivo_impar.write(f"{x}\n")
 
 
 
