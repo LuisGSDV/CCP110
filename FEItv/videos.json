@@ -1,0 +1,249 @@
+[
+    {
+        "titulo": "Modelo Entidade Relacionamento",
+        "autor": "Plinio Junior",
+        "curso": "CCD110 - Banco de Dados",
+        "descricao": "Introdução ao modelo Entidade-Relacionamento (MER), entidades, atributos, relacionamentos e construção de diagramas.",
+        "curtidas": [
+            "luis@gmail.com"
+        ]
+    },
+    {
+        "titulo": "Modelo Relacional",
+        "autor": "Plinio Junior",
+        "curso": "CCD110 - Banco de Dados",
+        "descricao": "Aprenda a transformar modelos conceituais em tabelas, relacionamentos e estruturas relacionais.",
+        "curtidas": []
+    },
+    {
+        "titulo": "DDL, DCL e DML",
+        "autor": "Plinio Junior",
+        "curso": "CCD110 - Banco de Dados",
+        "descricao": "Conheça os comandos SQL para definição, controle e manipulação de dados.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Normalização",
+        "autor": "Plinio Junior",
+        "curso": "CCD110 - Banco de Dados",
+        "descricao": "Entenda as formas normais e elimine redundâncias em bancos de dados.",
+        "curtidas": []
+    },
+    {
+        "titulo": "DQL",
+        "autor": "Plinio Junior",
+        "curso": "CCD110 - Banco de Dados",
+        "descricao": "Aprenda consultas SQL utilizando SELECT, filtros, ordenação e projeções.",
+        "curtidas": []
+    },
+    {
+        "titulo": "MongoDB",
+        "autor": "Plinio Junior",
+        "curso": "CCD110 - Banco de Dados",
+        "descricao": "Introdução ao banco NoSQL MongoDB, documentos, coleções e operações básicas.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Álgebra Relacional",
+        "autor": "Plinio Junior",
+        "curso": "CCD110 - Banco de Dados",
+        "descricao": "Operações fundamentais da álgebra relacional para consultas em banco de dados.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Python + BD",
+        "autor": "Plinio Junior",
+        "curso": "CCD110 - Banco de Dados",
+        "descricao": "Integração entre Python e banco de dados utilizando conexões e consultas.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Arquitetura de SGBD",
+        "autor": "Plinio Junior",
+        "curso": "CCD110 - Banco de Dados",
+        "descricao": "Entenda a estrutura interna e funcionamento de Sistemas Gerenciadores de Banco de Dados.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Introdução",
+        "autor": "Victor Varela",
+        "curso": "CCP120 - Programação FullStack",
+        "descricao": "Apresentação do curso e visão geral do desenvolvimento FullStack.",
+        "curtidas": []
+    },
+    {
+        "titulo": "HTML",
+        "autor": "Victor Varela",
+        "curso": "CCP120 - Programação FullStack",
+        "descricao": "Aprenda a estrutura básica de páginas web utilizando HTML.",
+        "curtidas": []
+    },
+    {
+        "titulo": "CSS - Introdução",
+        "autor": "Victor Varela",
+        "curso": "CCP120 - Programação FullStack",
+        "descricao": "Primeiros passos com CSS para estilização de páginas.",
+        "curtidas": []
+    },
+    {
+        "titulo": "CSS - Posicionamento",
+        "autor": "Victor Varela",
+        "curso": "CCP120 - Programação FullStack",
+        "descricao": "Domine posicionamento de elementos usando propriedades CSS.",
+        "curtidas": []
+    },
+    {
+        "titulo": "CSS - FlexBox",
+        "autor": "Victor Varela",
+        "curso": "CCP120 - Programação FullStack",
+        "descricao": "Aprenda layouts modernos usando FlexBox.",
+        "curtidas": []
+    },
+    {
+        "titulo": "JavaScript - Introdução",
+        "autor": "Victor Varela",
+        "curso": "CCP120 - Programação FullStack",
+        "descricao": "Conceitos iniciais de JavaScript e lógica aplicada ao navegador.",
+        "curtidas": []
+    },
+    {
+        "titulo": "JavaScript - Funções",
+        "autor": "Victor Varela",
+        "curso": "CCP120 - Programação FullStack",
+        "descricao": "Criação, parâmetros e retorno de funções em JavaScript.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Canvas - Introdução",
+        "autor": "Victor Varela",
+        "curso": "CCP120 - Programação FullStack",
+        "descricao": "Primeiros desenhos, contextos e elementos usando Canvas.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Canvas - Variáveis, Vetores, Objetos e Animações",
+        "autor": "Victor Varela",
+        "curso": "CCP120 - Programação FullStack",
+        "descricao": "Aprenda conceitos fundamentais para criação de jogos e animações.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Servidor - Introdução",
+        "autor": "Victor Varela",
+        "curso": "CCP120 - Programação FullStack",
+        "descricao": "Entenda o funcionamento básico de servidores e aplicações web.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Servidor - Get, Post e Template",
+        "autor": "Victor Varela",
+        "curso": "CCP120 - Programação FullStack",
+        "descricao": "Aprenda requisições HTTP e renderização dinâmica.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Banco de dados - Create e Read",
+        "autor": "Victor Varela",
+        "curso": "CCP120 - Programação FullStack",
+        "descricao": "Primeiras operações CRUD integradas ao backend.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Banco de dados - Update e Delete",
+        "autor": "Victor Varela",
+        "curso": "CCP120 - Programação FullStack",
+        "descricao": "Atualização e remoção de registros em aplicações FullStack.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Apresentação da Disciplina e Introdução à Lógica Sequencial",
+        "autor": "Murillo Bouzon",
+        "curso": "CCP110 - Fundamentos de Algoritmos",
+        "descricao": "Apresentação do curso e conceitos iniciais da lógica computacional.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Algoritmos com Lógica Sequencial",
+        "autor": "Murillo Bouzon",
+        "curso": "CCP110 - Fundamentos de Algoritmos",
+        "descricao": "Criação de algoritmos utilizando estruturas sequenciais.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Estruturas Condicionais e Operadores Relacionais",
+        "autor": "Murillo Bouzon",
+        "curso": "CCP110 - Fundamentos de Algoritmos",
+        "descricao": "Decisões em algoritmos utilizando operadores relacionais.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Estruturas Condicionais e Operadores Lógicos",
+        "autor": "Murillo Bouzon",
+        "curso": "CCP110 - Fundamentos de Algoritmos",
+        "descricao": "Aplicação de AND, OR e NOT na lógica computacional.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Estruturas de Repetição",
+        "autor": "Murillo Bouzon",
+        "curso": "CCP110 - Fundamentos de Algoritmos",
+        "descricao": "Introdução a loops e repetições em algoritmos.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Estruturas de Repetição Aninhadas",
+        "autor": "Murillo Bouzon",
+        "curso": "CCP110 - Fundamentos de Algoritmos",
+        "descricao": "Laços dentro de laços e aplicações práticas.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Funções",
+        "autor": "Murillo Bouzon",
+        "curso": "CCP110 - Fundamentos de Algoritmos",
+        "descricao": "Crie funções reutilizáveis e organize seu código.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Listas e Tuplas",
+        "autor": "Murillo Bouzon",
+        "curso": "CCP110 - Fundamentos de Algoritmos",
+        "descricao": "Estruturas de dados para armazenamento de valores.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Listas",
+        "autor": "Murillo Bouzon",
+        "curso": "CCP110 - Fundamentos de Algoritmos",
+        "descricao": "Manipulação, inserção e remoção em listas.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Listas Aninhadas e Matrizes",
+        "autor": "Murillo Bouzon",
+        "curso": "CCP110 - Fundamentos de Algoritmos",
+        "descricao": "Organização de dados em múltiplas dimensões.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Dicionários",
+        "autor": "Murillo Bouzon",
+        "curso": "CCP110 - Fundamentos de Algoritmos",
+        "descricao": "Estruturas chave-valor para armazenamento eficiente.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Arquivos",
+        "autor": "Murillo Bouzon",
+        "curso": "CCP110 - Fundamentos de Algoritmos",
+        "descricao": "Leitura e escrita de arquivos em aplicações.",
+        "curtidas": []
+    },
+    {
+        "titulo": "Manipulação de Strings, Módulos/Pacotes e GUI",
+        "autor": "Murillo Bouzon",
+        "curso": "CCP110 - Fundamentos de Algoritmos",
+        "descricao": "Trabalhando com textos, bibliotecas e interfaces gráficas.",
+        "curtidas": []
+    }
+]

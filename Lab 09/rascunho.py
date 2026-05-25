@@ -51,6 +51,7 @@ dois = [2 for x in range(3)]
 
 tres_com_dois = tres + dois
 
+print(tres_com_dois)
 print(tres_com_dois.index(2)) # mostra primeiro indice atribuido a valor entre pareteses
 
 # l.reverse() - > inverte ; l.sort() -> ordena || n funcionam com tipos heterogeneos

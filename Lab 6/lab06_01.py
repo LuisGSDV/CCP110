@@ -1,5 +1,3 @@
-j = 0
-i = 0 
 d = 1
 x = 0 
 
@@ -9,7 +7,7 @@ if x == 0:
     for i in range(0, x + 1) :
         i = int(input(f"Digite os {x} números: "))
 
-        for j in range(0, n):
+        for j in range(0, 1):
 
             d += d
             
